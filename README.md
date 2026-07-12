@@ -71,8 +71,12 @@ detection) and can be disabled with `--no-gpu`.
 
 ## Citation
 
-If you use this code, please cite the associated publication. Citation
-details will be added upon publication.
+If you use this code, please cite the associated publication:
+
+Hang, Y.; Mei, A.; Cui, Z.; North, K.; Highland, H.; Aguilera, J. A.; Liu, Y.;
+Liu, X.; Xiao, Q. Geostationary Satellite Observation Informed Modeling of
+Ozone Dynamics along the U.S.-Mexico Border. *ACS ES&T Air* **2026**.
+https://doi.org/10.1021/acsestair.6c00108
 
 ## Contact
 
