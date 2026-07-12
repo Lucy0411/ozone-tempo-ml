@@ -1,0 +1,11 @@
+numpy
+pandas
+scipy
+scikit-learn
+xgboost
+lightgbm
+optuna
+matplotlib
+seaborn
+xarray
+netCDF4

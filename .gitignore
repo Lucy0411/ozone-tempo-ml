@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.log
+.ipynb_checkpoints/
+.DS_Store
+
+# Local data and run outputs (not part of the code release)
+/data/
+/output/
+*.out
